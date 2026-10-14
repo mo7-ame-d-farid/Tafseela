@@ -1,4 +1,3 @@
-# Tafseela
 # Tafseela - تفصيلة
 
 ## 📌 Project Overview 
@@ -10,10 +9,11 @@
 - **Fashion Education:** توفير إرشادات ومحتوى لتوعية المستخدمين بأساسيات الموضة وكيفية تنسيق اختياراتهم بشكل صحيح.
 
 ## 🛠️ Tools & Technologies 
-*ملاحظة: جاري تحديد حزمة التقنيات (Tech Stack) النهائية للمشروع.*
 - **Design & Prototyping:** [TBD - To Be Determined]
 - **Front-end Development:** [TBD]
 - **Back-end & Database:** [TBD]
+- *ملاحظة: جاري تحديد حزمة التقنيات (Tech Stack) النهائية للمشروع.*
+
 
 ## 🚀 How to Use / View 
 *المشروع حالياً قيد التطوير (Under Development).* 
