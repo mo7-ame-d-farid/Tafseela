@@ -43,9 +43,9 @@
 ---
 
 ## 👥 Team Members 
-- **Mohamed Mahmoud Farid** (Team Leader)
-- **Mohamed Mostafa Taher Salem**
-- **Rawan Mohamed Mostafa Abdelhamid**
-- **Saif El Din Amin Hussein**
-- **Rawan Mohamed Gouda Abdelwahab**
-- **Adham Saleh Mohamed Saleh**
+- **Mohamed Mahmoud Farid** (Project Manager & Chief Strategist)
+- **Mohamed Mostafa Taher Salem** (Digital Marketing Strategist / Market Analyst)
+- **Rawan Mohamed Mostafa Abdelhamid** (Social Media Strategist & Content Lead)
+- **Saif El Din Amin Hussein** (Media Buyer & Performance Marketer)
+- **Rawan Mohamed Gouda Abdelwahab** (SEO & Email Marketing Specialist)
+- **Adham Saleh Mohamed Saleh** (Data Analyst & Tracking Specialist)
